@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e141208e-92b4-44dd-9a15-c2495012da98" name="Changes" comment="Cambios dentro del modal">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/screens/Propiedades.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/Propiedades.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/Propiedades.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/Propiedades.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" show_ignored="true" />
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Rebase.Settings">
+    <option name="NEW_BASE" value="origin/master" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="OscarDG1 &lt;oscardominguez351@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="1d3c6037eec8e16fd02c8f28b621cb75350433eb" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/package-lock.json" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2exKXajHnOPUQIijMJqD5sHO6Nj" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Android Proyectos/NexaHomeWEB&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.fileTypes&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\AndroidStudioProjects\NexaHomeWEB\src\screens" />
+      <recent name="D:\AndroidStudioProjects\NexaHomeWEB\src" />
+      <recent name="D:\AndroidStudioProjects\NexaHomeWEB\public" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Android Proyectos\NexaHomeWEB\src\assets" />
+      <recent name="D:\AndroidStudioProjects\NexaHomeWEB\src\assets" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e141208e-92b4-44dd-9a15-c2495012da98" name="Changes" comment="" />
+      <created>1712840833264</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712840833264</updated>
+    </task>
+    <task id="LOCAL-00001" summary="visual">
+      <option name="closed" value="true" />
+      <created>1712844996083</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712844996083</updated>
+    </task>
+    <task id="LOCAL-00002" summary="visual">
+      <option name="closed" value="true" />
+      <created>1712936328736</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1712936328736</updated>
+    </task>
+    <task id="LOCAL-00003" summary="visual">
+      <option name="closed" value="true" />
+      <created>1713280348354</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1713280348357</updated>
+    </task>
+    <task id="LOCAL-00004" summary="visual">
+      <option name="closed" value="true" />
+      <created>1713280601923</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1713280601924</updated>
+    </task>
+    <task id="LOCAL-00005" summary="a">
+      <option name="closed" value="true" />
+      <created>1713280732504</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1713280732504</updated>
+    </task>
+    <task id="LOCAL-00006" summary="a">
+      <option name="closed" value="true" />
+      <created>1713281447564</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1713281447564</updated>
+    </task>
+    <task id="LOCAL-00007" summary="a">
+      <option name="closed" value="true" />
+      <created>1713281616133</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1713281616133</updated>
+    </task>
+    <task id="LOCAL-00008" summary="a">
+      <option name="closed" value="true" />
+      <created>1713281735364</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1713281735364</updated>
+    </task>
+    <task id="LOCAL-00009" summary="a">
+      <option name="closed" value="true" />
+      <created>1713286739697</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1713286739697</updated>
+    </task>
+    <task id="LOCAL-00010" summary="a">
+      <option name="closed" value="true" />
+      <created>1713286871614</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1713286871614</updated>
+    </task>
+    <task id="LOCAL-00011" summary="login">
+      <option name="closed" value="true" />
+      <created>1713288026221</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1713288026221</updated>
+    </task>
+    <task id="LOCAL-00012" summary="loginRegistro cambiado">
+      <option name="closed" value="true" />
+      <created>1713308874281</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1713308874281</updated>
+    </task>
+    <task id="LOCAL-00013" summary="loginRegistro cambiado">
+      <option name="closed" value="true" />
+      <created>1713308949640</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1713308949640</updated>
+    </task>
+    <task id="LOCAL-00014" summary="loginRegistro cambiado">
+      <option name="closed" value="true" />
+      <created>1713309034884</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1713309034884</updated>
+    </task>
+    <task id="LOCAL-00015" summary="ProepiedadPlantilla + cambios">
+      <option name="closed" value="true" />
+      <created>1714749348060</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1714749348060</updated>
+    </task>
+    <task id="LOCAL-00016" summary="ProepiedadPlantilla + cambios">
+      <option name="closed" value="true" />
+      <created>1715092566203</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1715092566203</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Creando Perfil, Redes Sociales,Cerrar sesion funcionando navigationBAR añadido">
+      <option name="closed" value="true" />
+      <created>1715106275328</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1715106275330</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Creado Cambiar Contraseña.">
+      <option name="closed" value="true" />
+      <created>1715266983984</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1715266983985</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Creado Editar Perfil.">
+      <option name="closed" value="true" />
+      <created>1715274675634</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1715274675634</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Propiedades plantilla modal creada.">
+      <option name="closed" value="true" />
+      <created>1715954773861</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1715954773861</updated>
+    </task>
+    <task id="LOCAL-00021" summary="PropiedadForm cambiado">
+      <option name="closed" value="true" />
+      <created>1716742157625</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1716742157625</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Añadido MiPropiedad + arreglos en PropiedadForm">
+      <option name="closed" value="true" />
+      <created>1716896752647</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1716896752647</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Cambios estetica">
+      <option name="closed" value="true" />
+      <created>1716899400808</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1716899400808</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Cambios estetica">
+      <option name="closed" value="true" />
+      <created>1716899425591</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1716899425591</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Tests">
+      <option name="closed" value="true" />
+      <created>1716909088912</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1716909088912</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Tests v2">
+      <option name="closed" value="true" />
+      <created>1716910992176</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1716910992176</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Añadido Errores de contraseña, creada clase para propiedades, mostrar todas las propiedades">
+      <option name="closed" value="true" />
+      <created>1716976518988</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1716976518988</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Añadido Estilos + Possible integracion de imagen">
+      <option name="closed" value="true" />
+      <created>1717000000973</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1717000000973</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Cambios en perfil + changePass">
+      <option name="closed" value="true" />
+      <created>1717013589087</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1717013589087</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Estilos CSS cambiados (mejora visual)">
+      <option name="closed" value="true" />
+      <created>1717017524388</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1717017524388</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="visual" />
+    <MESSAGE value="a" />
+    <MESSAGE value="login" />
+    <MESSAGE value="loginRegistro cambiado" />
+    <MESSAGE value="PropiedadForm" />
+    <MESSAGE value="ProepiedadPlantilla + cambios" />
+    <MESSAGE value="Creando Perfil, Redes Sociales,Cerrar sesion funcionando navigationBAR añadido" />
+    <MESSAGE value="Creado Cambiar Contraseña." />
+    <MESSAGE value="Creado Editar Perfil." />
+    <MESSAGE value="Propiedades plantilla modal creada." />
+    <MESSAGE value="PropiedadForm cambiado" />
+    <MESSAGE value="Añadido MiPropiedad + arreglos en PropiedadForm" />
+    <MESSAGE value="Cambios estetica" />
+    <MESSAGE value="Tests" />
+    <MESSAGE value="Tests v2" />
+    <MESSAGE value="Añadido Errores de contraseña, creada clase para propiedades, mostrar todas las propiedades" />
+    <MESSAGE value="Añadido Estilos + Possible integracion de imagen" />
+    <MESSAGE value="Cambios en perfil + changePass" />
+    <MESSAGE value="Estilos CSS cambiados (mejora visual)" />
+    <MESSAGE value="Cambios dentro del modal" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cambios dentro del modal" />
+  </component>
+</project>

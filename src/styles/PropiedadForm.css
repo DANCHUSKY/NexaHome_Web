@@ -1,0 +1,194 @@
+.form {
+  width: 100%;
+  max-width: 400px;
+  margin: auto;
+  margin-top: 50px;
+  padding: 20px;
+  background-color: #f7f7f7;
+  border-radius: 8px;
+  box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.1);
+}
+
+.group {
+  margin-bottom: 20px;
+}
+
+.group input[type="checkbox"] {
+  position: relative;
+  top: 20px;
+  transform: scale(1.5);
+}
+
+.input-wrapper {
+  position: relative;
+}
+
+.inputt {
+  font-size: 16px;
+  padding: 30px 10px 10px 5px;
+  display: block;
+  width: calc(100% - 20px);
+  border: none;
+  border-bottom: 1px solid #515151;
+  background: transparent;
+  margin-bottom: 1px;
+  text-align: center;
+}
+
+.inputt:focus {
+  outline: none;
+}
+
+.input-label {
+  color: #999;
+  font-size: 18px;
+  font-weight: normal;
+  position: absolute;
+  pointer-events: none;
+  left: 5px;
+  top: 2px;
+  transition: 0.2s ease all;
+}
+
+.input-label-up {
+  top: -20px;
+  font-size: 14px;
+  color: #5264AE;
+}
+
+.bar {
+  position: relative;
+  display: block;
+  width: calc(100% - 20px);
+}
+
+.bar:before,
+.bar:after {
+  content: '';
+  height: 2px;
+  width: 0;
+  bottom: 1px;
+  position: absolute;
+  background: #5264AE;
+  transition: 0.2s ease all;
+}
+
+.bar:before {
+  left: 50%;
+}
+
+.bar:after {
+  right: 50%;
+}
+
+.inputt:focus ~ .bar:before,
+.inputt:focus ~ .bar:after {
+  width: 50%;
+}
+
+.highlight {
+  position: absolute;
+  height: 60%;
+  width: 20px;
+  top: 20%;
+  left: 40%;
+  pointer-events: none;
+  opacity: 0.5;
+}
+
+.inputt:focus ~ .highlight {
+  animation: inputHighlighter 0.3s ease;
+}
+
+@keyframes inputHighlighter {
+  from {
+    background: #5264AE;
+  }
+  to {
+    width: 0;
+    background: transparent;
+  }
+}
+
+.image-preview {
+  width: 100%;
+  height: auto;
+  margin-bottom: 10px;
+}
+
+.image-preview img {
+  width: 100%;
+  height: auto;
+}
+
+.contact-button.btn {
+  width: 100%;
+  height: 2.3em;
+  margin: 0.5em 0;
+  background: black;
+  color: white;
+  border: none;
+  border-radius: 0.625em;
+  font-size: 20px;
+  font-weight: bold;
+  cursor: pointer;
+  position: relative;
+  z-index: 1;
+  overflow: hidden;
+  text-align: center;
+}
+
+.button.btn-container {
+  display: flex;
+  justify-content: center; /* Centra el botón horizontalmente */
+}
+
+
+button:hover:after {
+  transform: skewX(-45deg) scale(1, 1);
+  transition: all 0.5s;
+}
+
+/* Media Queries para dispositivos móviles */
+@media (max-width: 768px) {
+  .form {
+    width: 90%;
+    padding: 15px;
+  }
+
+  .inputt {
+    font-size: 14px;
+    padding: 8px 8px 8px 4px;
+    width: calc(100% - 16px);
+  }
+
+  .input-label {
+    font-size: 14px;
+  }
+
+  .input-label-up {
+    font-size: 12px;
+  }
+
+  .contact-button.btn {
+    font-size: 16px;
+    padding: 10px;
+  }
+
+  .group input[type="checkbox"] {
+    transform: scale(1.2);
+    top: 10px;
+  }
+
+  .image-preview {
+    width: 100%;
+  }
+
+  .input-wrapper {
+    margin-bottom: 20px;
+  }
+
+  .button.btn-container {
+    justify-content: center;
+  }
+}
