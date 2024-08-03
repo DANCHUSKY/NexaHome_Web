@@ -15,6 +15,14 @@ Property Management:
 - Upload Properties: Allows users to upload new properties through a comprehensive form, which includes all necessary fields for a property listing, and an image selector to upload pictures.
 - User Properties: Provides a section for users to view their own listed properties.
 
+## Screenshots
+
+### Login Screen
+![LoginWeb](https://github.com/user-attachments/assets/7229ec51-9101-480b-a640-eedb046c60a9)
+
+
+### Search Results for Houses in Barcelona
+![BuscadorWeb](https://github.com/user-attachments/assets/8ab56f16-3e8c-4791-ac20-2d37ed993f27)
 
 
 # Getting Started with Create React App
