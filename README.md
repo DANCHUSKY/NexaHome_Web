@@ -96,3 +96,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 # NexaHome_Web
+<img width="1378" <img width="529" height="422" alt="buscador" src="https://github.com/user-attachments/assets/5b1f9622-691b-4d1b-b602-148cb1265560" />
+height="617" alt="web" src="https://github.com/user-attachments/assets/ad68758f-3fa5-4df4-a1ba-fe7401e35e50" />
